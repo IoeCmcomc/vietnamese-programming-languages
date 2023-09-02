@@ -39,6 +39,15 @@ Viet (đọc là *Việt* /viət̚˧˨ʔ/) là một ngôn ngữ lập trình "h
 
 ViL được tác giả tạo ra để thực hành cách tạo ra một ngôn ngữ lập trình dựa vào cuốn sách [Crafting Interpreters](http://craftinginterpreters.com/ "Crafting Interpreters"). ViL là ngôn ngữ kiểu động được viết bằng ngôn ngữ Dart. Một số từ khoá như `return` và `this` không được dịch sang tiếng Việt.
 
+### VNC
+**Giới thiệu**: https://github.com/nguyenphuminh/VNC/blob/main/README-vi.md  
+**Mã nguồn**: https://github.com/nguyenphuminh/VNC  
+**Phần mở rộng tập tin**: .vnc  
+**Năm tạo ra**: 2021  
+**Tác giả**: Nguyễn Phú Minh ([nguyenphuminh](https://github.com/nguyenphuminh))  
+
+VNC là phiên bản tiếng Việt của ngôn ngữ lập trình [FreakC](https://github.com/FreakC-Foundation/FreakC "FreakC"). Cả hai ngôn ngữ đều do cùng một tác giả phát triển. Các câu lệnh của VNC là tiếng Việt không dấu.
+
 ### VanVo
 **Giới thiệu**: https://balldk.github.io/posts/vanvo/  
 **Mã nguồn**: https://github.com/balldk/vanvo  
