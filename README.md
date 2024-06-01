@@ -79,3 +79,13 @@ Gỉ (/jḭ˧˩˧/), đúng như tên gọi của nó, là phiên bản tiếng 
 **Tác giả**: Nguyễn Đình Đăng Khoa ([balldk](https://github.com/balldk))  
 
 VanVo (đọc là *văn vở* /van˧˧ və̰ː˧˩˧/) là một ngôn ngữ lập trình "được thiết kế với cú pháp thuần Việt". Giống Viet, các từ khoá trong VanVo có thể được viết có dấu hoặc không dấu đều được. Đặc biệt hơn, VanVo hỗ trợ định danh (identifier) có chứa dấu cách, chẳng hạn như `số nguyên tố`. Tác giả đã viết một [phần mở rộng cho VSCode](https://github.com/balldk/vscode-vanvo "phần mở rộng cho VSCode") để hỗ trợ việc viết mã nguồn VanVo.
+
+### VieLang
+
+**Giới thiệu**: https://vietlang.vercel.app/ (hiện không truy cập được)  
+**Mã nguồn**: https://github.com/h-vien/vielang  
+**Phần mở rộng tập tin**: không có  
+**Năm tạo ra**: 2024  
+**Tác giả**: Hoàng Viên ([h-vien](https://github.com/h-vien))  
+
+VieLang là một ngôn ngữ lập trình được viết bằng TypeScript, với các từ khoá bằng tiếng Việt. Mã nguồn VieLang được biên dịch (transpile) sang mã JavaScript thay vì chạy trên một trình thông dịch riêng. Giống VanVo, VieLang cũng hỗ trợ cả định danh có dấu và chứa dấu cách.
