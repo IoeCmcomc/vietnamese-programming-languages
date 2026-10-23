@@ -89,3 +89,12 @@ VanVo (đọc là *văn vở* /van˧˧ və̰ː˧˩˧/) là một ngôn ngữ l�
 **Tác giả**: Hoàng Viên ([h-vien](https://github.com/h-vien))  
 
 VieLang là một ngôn ngữ lập trình được viết bằng TypeScript, với các từ khoá bằng tiếng Việt. Mã nguồn VieLang được biên dịch (transpile) sang mã JavaScript thay vì chạy trên một trình thông dịch riêng. Giống VanVo, VieLang cũng hỗ trợ cả định danh có dấu và chứa dấu cách.
+
+### V++
+
+**Mã nguồn**: https://github.com/winbiru/VXX  
+**Phần mở rộng tập tin**: .vi  
+**Năm tạo ra**: 2025  
+**Tác giả**: Nguyễn Xuân Thắng ([winbiru](https://github.com/winbiru), [nxthang3](https://github.com/nxthang3))  
+
+V++ (tên cũ: *VietVM*) là một ngôn ngữ lập trình được viết bằng C++, có  "cú pháp gần gũi với tiếng Việt", bao gồm từ khoá tiếng Việt và định danh hỗ trợ tiếng Việt. Ngôn ngữ kiểu động này được biên dịch sang mã byte để thực thi trên máy ảo của riêng nó, sau này sẽ hỗ trợ thêm biên dịch tức thì (JIT). Ngoài phần mở rộng VSCode, nó còn đi kèm một trình quản lí gói và các thư viện chuẩn. Dễ thấy ngôn ngữ được phát triển với sự hỗ trợ của LLM.
